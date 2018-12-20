@@ -26,6 +26,8 @@
 >>> print(add)
 ```
 
-##Feel Free to Contribute\n\n
+Feel Free to Contribute\n\n
 If you have any small light Python tools feel free to contribute..
-  f
+  
+  
+  *Under Development* 
